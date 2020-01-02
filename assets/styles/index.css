@@ -1,15 +1,10 @@
-@font-face {
-	font-family: "Gotham";
-	src: url("../fonts/gotham.woff") format('woff');
-}
-
 body, html {
     color: #373234;
     border: 0;    
     padding: 0;
     margin: 0px;
     height: 100%;
-    font-family: Gotham, sans-serif;      
+    font-family: 'Noto Sans', Helvetica, sans-serif;
 }
 
 a {
@@ -102,4 +97,16 @@ div.text-content {
   	display: block;
   	border-radius: 8px;
   	padding: 8px 16px 16px 16px;
+}
+
+h3 {
+	color: rgb(219, 212, 206);
+}
+
+h4 {
+	color: rgb(196, 164, 132);
+}
+
+h4.instrument {
+	color: rgb(162, 155, 156);
 }
