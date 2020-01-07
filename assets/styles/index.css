@@ -41,7 +41,7 @@ body {
 nav {
 	margin:0 auto;
 	overflow: hidden;
-	width: 75%;
+	width: 100%;
 	text-align: center;
 	border-bottom-left-radius: 8px;
 	border-bottom-right-radius: 8px;
@@ -87,7 +87,7 @@ div.content {
 }
 
 div.text-content {
-	width: calc(75% - 32px);
+	width: 80%;
 	margin-top: 32px;
 	margin-bottom: 32px;
 	margin-right: auto;
@@ -100,11 +100,11 @@ div.text-content {
 }
 
 h1 {
-	font-size: 64px;
+	font-size: 32px;
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 18px;
 	font-weight: 300;
 	font-style: italic;
 }
@@ -118,12 +118,12 @@ h1, h2 {
 }
 
 div.titles {
+  width: 100%;
   margin: 0;
   position: absolute;
   top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 h3, h4 {
@@ -142,8 +142,8 @@ h3, h4 {
 }
 
 div.media {
-	font-size: 64px;
-	width: 75%;
+	font-size: 32px;
+	width: 50%;
 	margin: 16px auto 16px auto;
     display: flex;
     justify-content: space-between;
