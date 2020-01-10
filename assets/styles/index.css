@@ -169,7 +169,17 @@ h3, h4 {
 	color: #F00;
 }
 
+img.instrument {
+	width: 35%;
+	height: auto;
+}
+
 @media only screen and (max-width: 600px) {
+	img.instrument {
+		width: 100%;
+		height: auto;
+	}
+
 	h1 {
 		font-size: 32px;
 	}
