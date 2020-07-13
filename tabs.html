@@ -4,68 +4,34 @@
 	<meta charset="UTF-8">
 	<meta name="theme-color" content="#211819">
 	<meta name="description" content="Oficial website of TheLastSurvivorFPS. Videogame Metal Musician">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎸</text></svg>">
 	<title>Tabs - TheLastSurvivorFPS</title>
 </head>
 <body>
 	<div class="content">
 		<nav>
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="tabs.html">Tabs<span class="dot"></span></a></li>
 				<li><a href="about-me.html">About Me</a></li>
+				<li><a href="mp3.html">MP3</a></li>
+				<li><a href="tabs.html">Tabs<span class="dot"></span></a></li>			
 			</ul>
 		</nav>
 
-		<div class="text-content">
+		<div class="text-content" id="tab_container">
 			<h3>Tabs</h3>
 			<p>
 				Here you can download the tabs I made for every song. The tabs are in Guitar Pro (.gp5) format and special software is required in order to play them, such as <a href="https://www.guitar-pro.com/en/index.php">Guitar Pro</a>, <a href="https://goplayalong.com/">GoPlayAlong Tab Player</a> or <a href="http://www.tuxguitar.com.ar/">TuxGuitar</a>.
 			</p>
 			<p>
 				 While recording a song I usually come up with new arrangements and ideas that I usually forget to add in the tablatures. If you find any mistake, please leave a comment in it respective YouTube video.
-			</p>
-			<h3>Astronomia / Dancing Coffin Meme</h3>
-			<p>
-				<ul>				
-					<li><a href="./assets/tabs/astronomia_side_a.gp5">Astronomia (Side A)</a></li>
-					<li><a href="./assets/tabs/astronomia_side_b.gp5">Astronomia (Side B)</a></li>
-				</ul>
-			</p>			
-			<h3>Vete a la versh</h3>
-			<p>
-				<ul>								
-					<li><a href="./assets/tabs/garnachas.gp5">Garnachas</a></li>
-					<li><a href="./assets/tabs/perra.gp5">Perra el musical</a></li>				
-					<li><a href="./assets/tabs/valv-metal-medley.gp5">Vete a la Versh Metal Medley</a></li>
-				</ul>
-			</p>			
-			<h3>Videogames</h3>
-			<p>
-				<ul>
-					<li><a href="./assets/tabs/lament.gp5">Midna's Lament / Desperate Hour</a></li>
-					<li><a href="./assets/tabs/battle-xy-legendary.gp5">Battle! (Xerneas / Yveltal)</a></li>
-					<li><a href="./assets/tabs/mc_credits.gp5">Minish Cap Credits Theme</a></li>
-					<li><a href="./assets/tabs/oot_medley.gp5">Ocarina of Time Warp Songs Metal Medley</a></li>	
-					<li><a href="./assets/tabs/dekupalace.gp5">Deku Palace</a></li>									
-					<li><a href="./assets/tabs/queen_rutela.gp5">Queen Rutela (Serenade of Water)</a></li>					
-					<li><a href="./assets/tabs/light_kirby_air_ride.gp5">Light (Kirby Air Ride)</a></li>
-					<li><a href="./assets/tabs/clock_town.gp5">Clock Town (Day 1)</a></li>
-					<li><a href="./assets/tabs/peace_of_mind.gp5">Peace of Mind (Resident Evil Save Theme)</a></li>
-					<li><a href="./assets/tabs/rest.gp5">Rest (Resident Evil 0 Save Theme)</a></li>
-					<li><a href="./assets/tabs/lost_woods.gp5">Lost Woods / Saria's Song (Sacred Grove)</a></li>
-					<li><a href="./assets/tabs/song_of_storms.gp5">Song of Storms (Windmill Hut)</a></li>
-					<li><a href="./assets/tabs/minish_cap_boss_battle.gp5">Minish Cap Boss Battle</a></li>
-					<li><a href="./assets/tabs/kakariko_village_(twilight_princess).gp5">Kakariko Village (Twilight Princess)</a></li>
-					<li><a href="./assets/tabs/gerudo_desert.gp5">Gerudo Desert</a></li>
-					<li><a href="./assets/tabs/ballad_of_the_windfish.gp5">Ballad of the Windfish - CSGuitar89 Cover</a></li>
-					<li><a href="./assets/tabs/zelda_lullaby.gp5">Zelda's Lullaby - Serraphas3's Cover</a></li>
-				</ul>
-			</p>
+			</p>		
 		</div>
 
 	</div>	
 	<link rel="stylesheet" href="assets/styles/index.css">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" rel="stylesheet">
+	<script type="text/javascript" src="./assets/scripts/json_parser.js"></script>
+	<script type="text/javascript">generateHtmlDocument("tab_container")</script>
 </body>
 </html>
