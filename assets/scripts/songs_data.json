@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Battle! (Kalos pokémon trainer)",
+				"mp3_url":"./assets/mp3/kalos_trainer.mp3",
+				"tab_url":"./assets/tabs/kalos_trainer.gp5"
+			},			
+			{
 				"name":"Midna's lament / Desperate Hour",
 				"mp3_url":"./assets/mp3/lament.mp3",
 				"tab_url":"./assets/tabs/lament.gp5"
