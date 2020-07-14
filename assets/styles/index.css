@@ -230,6 +230,14 @@ th.title {
 		width: 100%;
 		font-size: 14px;
 	}
+
+	#audioPlayerName {
+		font-size: 12px;
+	}
+
+	#audioPlayerContainer {
+		padding-top: 0;
+	}
 }
 
 audio::-webkit-media-controls-panel {
@@ -251,7 +259,6 @@ audio::-webkit-media-controls-panel {
 #audioPlayerName  {
 	margin-left: 20px;
     color: #000;
-    font-style: inherit;
 }
 
 #audioPlayer{
