@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Battle! (Hoenn Elite Four)",
+				"mp3_url":"./assets/mp3/hoenn_e4.mp3",
+				"tab_url":"./assets/tabs/hoenn_e4.gp5"
+			},			
+			{
 				"name":"Battle! (Kalos pokémon trainer)",
 				"mp3_url":"./assets/mp3/kalos_trainer.mp3",
 				"tab_url":"./assets/tabs/kalos_trainer.gp5"
