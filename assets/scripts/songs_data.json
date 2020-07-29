@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Battlefield (Brawl) Ver. 2",
+				"mp3_url":"./assets/mp3/battlefield_ver2_brawl.mp3",
+				"tab_url":"./assets/tabs/battlefield_ver2_brawl.gp5"
+			},
+			{
 				"name":"Battle! (Hoenn Elite Four)",
 				"mp3_url":"./assets/mp3/hoenn_e4.mp3",
 				"tab_url":"./assets/tabs/hoenn_e4.gp5"
