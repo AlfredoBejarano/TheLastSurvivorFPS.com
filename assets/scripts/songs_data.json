@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Live Evil",
+				"mp3_url":"./assets/mp3/Live Evil.mp3",
+				"tab_url":"./assets/tabs/Live Evil.gp5"
+			},
+			{
 				"name":"Battlefield (Brawl) Ver. 2",
 				"mp3_url":"./assets/mp3/battlefield_ver2_brawl.mp3",
 				"tab_url":"./assets/tabs/battlefield_ver2_brawl.gp5"
