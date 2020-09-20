@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"The Legend of Zelda House Theme",
+				"mp3_url":"./assets/mp3/tloz_house.mp3",
+				"tab_url":"./assets/tabs/tloz_house.gp5"
+			},
+			{
 				"name":"Live Evil",
 				"mp3_url":"./assets/mp3/Live Evil.mp3",
 				"tab_url":"./assets/tabs/Live Evil.gp5"
