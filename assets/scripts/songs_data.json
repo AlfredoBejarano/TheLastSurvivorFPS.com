@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Living Mice",
+				"mp3_url":"./assets/mp3/living_mice.mp3",
+				"tab_url":"./assets/tabs/living_mice.gp5"
+			},			
+			{
 				"name":"The Legend of Zelda House Theme",
 				"mp3_url":"./assets/mp3/tloz_house.mp3",
 				"tab_url":"./assets/tabs/tloz_house.gp5"
