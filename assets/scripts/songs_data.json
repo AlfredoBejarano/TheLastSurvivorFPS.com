@@ -38,6 +38,11 @@
 		"name":"Videogames",
 		"songs": [
 			{
+				"name":"Alice Madness Returns Title Theme",
+				"mp3_url":"./assets/mp3/alice.mp3",
+				"tab_url":"./assets/tabs/alice.gp5"
+			},			
+			{
 				"name":"Living Mice",
 				"mp3_url":"./assets/mp3/living_mice.mp3",
 				"tab_url":"./assets/tabs/living_mice.gp5"
