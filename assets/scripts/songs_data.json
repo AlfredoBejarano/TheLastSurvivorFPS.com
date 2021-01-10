@@ -1,162 +1,197 @@
 [
 	{
 		"name":"Astronomia / Dancing Coffin Meme",
+		"cover" : "./assets/images/album-1.jpg",
+		"order":1,
 		"songs" : [
 			{
 				"name":"Astronomia (Side A)",
 				"mp3_url":"./assets/mp3/astronomia_side_a.mp3",
-				"tab_url":"./assets/tabs/astronomia_side_a.gp5"
+				"tab_url":"./assets/tabs/astronomia_side_a.gp5",
+				"order":"1"
 			},
 			{
 				"name":"Astronomia (Side B)",
 				"mp3_url":"./assets/mp3/astronomia_side_b.mp3",
-				"tab_url":"./assets/tabs/astronomia_side_b.gp5"
+				"tab_url":"./assets/tabs/astronomia_side_b.gp5",
+				"order":"2"
 			}
 		]
 	},
 	{
 		"name":"Vete a la versh",
+		"cover" : "./assets/images/album-2.jpg",
+		"order":2,
 		"songs": [
 			{
 				"name":"Garnachas",
 				"mp3_url":"./assets/mp3/garnachas.mp3",
-				"tab_url":"./assets/tabs/garnachas.gp5"
+				"tab_url":"./assets/tabs/garnachas.gp5",
+				"order":"1"
 			},
 			{
 				"name":"Perra el musical",
 				"mp3_url":"./assets/mp3/perra.mp3",
-				"tab_url":"./assets/tabs/perra.gp5"
+				"tab_url":"./assets/tabs/perra.gp5",
+				"order":"2"
 			},
 			{
 				"name":"Vete a la versh Metal Medley",
 				"mp3_url":"./assets/mp3/valv-metal-medley.mp3",
-				"tab_url":"./assets/tabs/valv-metal-medley.gp5"
+				"tab_url":"./assets/tabs/valv-metal-medley.gp5",
+				"order":"3"
 			}
 		]
 	},
 	{
 		"name":"Videogames",
-		"songs": [
+		"cover" : "./assets/images/album-3.jpg",
+		"order":3,
+		"songs": [			
 			{
 				"name":"Alice Madness Returns Title Theme",
 				"mp3_url":"./assets/mp3/alice.mp3",
-				"tab_url":"./assets/tabs/alice.gp5"
+				"tab_url":"./assets/tabs/alice.gp5",
+				"order":"24"
 			},			
 			{
 				"name":"Living Mice",
 				"mp3_url":"./assets/mp3/living_mice.mp3",
-				"tab_url":"./assets/tabs/living_mice.gp5"
+				"tab_url":"./assets/tabs/living_mice.gp5",
+				"order":"23"
 			},			
 			{
 				"name":"The Legend of Zelda House Theme",
 				"mp3_url":"./assets/mp3/tloz_house.mp3",
-				"tab_url":"./assets/tabs/tloz_house.gp5"
+				"tab_url":"./assets/tabs/tloz_house.gp5",
+				"order":"22"
 			},
 			{
 				"name":"Live Evil",
 				"mp3_url":"./assets/mp3/Live Evil.mp3",
-				"tab_url":"./assets/tabs/Live Evil.gp5"
+				"tab_url":"./assets/tabs/Live Evil.gp5",
+				"order":"21"
 			},
 			{
 				"name":"Battlefield (Brawl) Ver. 2",
 				"mp3_url":"./assets/mp3/battlefield_ver2_brawl.mp3",
-				"tab_url":"./assets/tabs/battlefield_ver2_brawl.gp5"
+				"tab_url":"./assets/tabs/battlefield_ver2_brawl.gp5",
+				"order":"20"
 			},
 			{
 				"name":"Battle! (Hoenn Elite Four)",
 				"mp3_url":"./assets/mp3/hoenn_e4.mp3",
-				"tab_url":"./assets/tabs/hoenn_e4.gp5"
+				"tab_url":"./assets/tabs/hoenn_e4.gp5",
+				"order":"19"
 			},			
 			{
 				"name":"Battle! (Kalos pokémon trainer)",
 				"mp3_url":"./assets/mp3/kalos_trainer.mp3",
-				"tab_url":"./assets/tabs/kalos_trainer.gp5"
+				"tab_url":"./assets/tabs/kalos_trainer.gp5",
+				"order":"18"
 			},			
 			{
 				"name":"Midna's lament / Desperate Hour",
 				"mp3_url":"./assets/mp3/lament.mp3",
-				"tab_url":"./assets/tabs/lament.gp5"
+				"tab_url":"./assets/tabs/lament.gp5",
+				"order":"17"
 			},
 			{
 				"name":"Battle! (Xerneas / Yveltal)",
 				"mp3_url":"./assets/mp3/battle-xy-legendary.mp3",
-				"tab_url":"./assets/tabs/battle-xy-legendary.gp5"
+				"tab_url":"./assets/tabs/battle-xy-legendary.gp5",
+				"order":"16"
 			},
 			{
 				"name":"Minish Cap credits theme",
 				"mp3_url":"./assets/mp3/mc_credits.mp3",
-				"tab_url":"./assets/tabs/mc_credits.gp5"
+				"tab_url":"./assets/tabs/mc_credits.gp5",
+				"order":"15"
 			},
 			{
 				"name":"Ocarina of Time warp songs medley",
 				"mp3_url":"./assets/mp3/oot_medley.mp3",
-				"tab_url":"./assets/tabs/oot_medley.gp5"
+				"tab_url":"./assets/tabs/oot_medley.gp5",
+				"order":"14"
 			},
 			{
 				"name":"Deku Palace",
 				"mp3_url":"./assets/mp3/dekupalace.mp3",
-				"tab_url":"./assets/tabs/dekupalace.gp5"
+				"tab_url":"./assets/tabs/dekupalace.gp5",
+				"order":"13"
 			},
 			{
 				"name":"Queen Rutela (Serenade of Water)",
 				"mp3_url":"./assets/mp3/queen_rutela.mp3",
-				"tab_url":"./assets/tabs/queen_rutela.gp5"
+				"tab_url":"./assets/tabs/queen_rutela.gp5",
+				"order":"12"
 			},
 			{
 				"name":"Light (Kirby Air Ride)",
 				"mp3_url":"./assets/mp3/light_kirby_air_ride.mp3",
-				"tab_url":"./assets/tabs/light_kirby_air_ride.gp5"
+				"tab_url":"./assets/tabs/light_kirby_air_ride.gp5",
+				"order":"11"
 			},
 			{
 				"name":"Clock Town (Day 1)",
 				"mp3_url":"./assets/mp3/clock_town.mp3",
-				"tab_url":"./assets/tabs/clock_town.gp5"
+				"tab_url":"./assets/tabs/clock_town.gp5",
+				"order":"10"
 			},
 			{
 				"name":"Peace of Mind (Resident Evil Save Theme)",
 				"mp3_url":"./assets/mp3/peace_of_mind.mp3",
-				"tab_url":"./assets/tabs/peace_of_mind.gp5"
+				"tab_url":"./assets/tabs/peace_of_mind.gp5",
+				"order":"9"
 			},
 			{
 				"name":"Rest (Resident Evil 0 Save Theme)",
 				"mp3_url":"./assets/mp3/rest.mp3",
-				"tab_url":"./assets/tabs/rest.gp5"
+				"tab_url":"./assets/tabs/rest.gp5",
+				"order":"8"
 			},
 			{
 				"name":"Lost Woods / Saria's Song (Sacred Grove)",
 				"mp3_url":"./assets/mp3/lost_woods.mp3",
-				"tab_url":"./assets/tabs/lost_woods.gp5"
+				"tab_url":"./assets/tabs/lost_woods.gp5",
+				"order":"7"
 			},
 			{
 				"name":"Song of Storms (Windmill Hut)",
 				"mp3_url":"./assets/mp3/song_of_storms.mp3",
-				"tab_url":"./assets/tabs/song_of_storms.gp5"
+				"tab_url":"./assets/tabs/song_of_storms.gp5",
+				"order":"6"		
 			},
 			{
 				"name":"Minish Cap Boss Battle",
 				"mp3_url":"./assets/mp3/minish_cap_boss_battle.mp3",
-				"tab_url":"./assets/tabs/minish_cap_boss_battle.gp5"
+				"tab_url":"./assets/tabs/minish_cap_boss_battle.gp5",
+				"order":"5"
 			},
 			{
 				"name":"Kakariko Village (Twilight Princess)",
 				"mp3_url":"./assets/mp3/kakariko_village_(twilight_princess).mp3",
-				"tab_url":"./assets/tabs/kakariko_village_(twilight_princess).gp5"
+				"tab_url":"./assets/tabs/kakariko_village_(twilight_princess).gp5",
+				"order":"4"
 			},
 			{
 				"name":"Gerudo Desert",
 				"mp3_url":"./assets/mp3/gerudo_desert.mp3",
-				"tab_url":"./assets/tabs/gerudo_desert.gp5"
+				"tab_url":"./assets/tabs/gerudo_desert.gp5",
+				"order":"3"
 			},
 			{
 				"name":"Ballad of the Windfish - CSGuitar89 Cover",
 				"mp3_url":"./assets/mp3/ballad_of_the_windfish.mp3",
-				"tab_url":"./assets/tabs/ballad_of_the_windfish.gp5"
+				"tab_url":"./assets/tabs/ballad_of_the_windfish.gp5",
+				"order":"2"
 			},
 			{
 				"name":"Zelda's Lullaby - Serraphas3 Cover",
 				"mp3_url":"./assets/mp3/zelda_lullaby.mp3",
-				"tab_url":"./assets/tabs/zelda_lullaby.gp5"
-			}			
+				"tab_url":"./assets/tabs/zelda_lullaby.gp5",
+				"order":"1"
+			}		
 		]
 	}
 ]
