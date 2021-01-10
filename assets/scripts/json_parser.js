@@ -16,7 +16,9 @@ function generateSection(section) {
 
 function generateSongList(section, containerId) {
 	var paragraphTag = document.createElement("p")
-	var listTag = document.createElement("ul")
+	var listTag = document.createElement("ol")
+
+	section.songs.sort((a,b) => a.order - b.order)
 
 	section.songs.forEach(function(song, index, array) {
 		var itemTag = document.createElement("li")		
@@ -41,6 +43,8 @@ function generateSongList(section, containerId) {
 function generateHtmlDocument(containerId) {
 	var songsData = GetSongsData()
 	var container = document.getElementById(containerId)
+
+	songsData.sort((a,b) => a.order - b.order)
 
 	songsData.forEach(function(section) {
 		container.appendChild(generateSection(section))
