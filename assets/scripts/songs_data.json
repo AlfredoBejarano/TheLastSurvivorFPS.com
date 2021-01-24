@@ -49,6 +49,12 @@
 		"order":3,
 		"songs": [			
 			{
+				"name":"Song of Healing",
+				"mp3_url":"./assets/mp3/healing.mp3",
+				"tab_url":"./assets/tabs/healing.gp5",
+				"order":"25"
+			},			
+			{
 				"name":"Alice Madness Returns Title Theme",
 				"mp3_url":"./assets/mp3/alice.mp3",
 				"tab_url":"./assets/tabs/alice.gp5",
