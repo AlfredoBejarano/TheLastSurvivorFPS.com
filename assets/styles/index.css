@@ -169,9 +169,22 @@ h3, h4 {
 	color: #F00;
 }
 
-img.instrument {
-	width: 35%;
-	height: auto;
+div.instrument {
+	width: 100%;
+	display: inline-block;
+}
+
+img.instrument-icon {
+	width: 15%;
+	float: left;
+}
+
+ul.instrument-specs {
+	clear: left;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 20px;
+	list-style-type: circle;
 }
 
 img.signal_chain {
@@ -197,9 +210,11 @@ th.title {
 }
 
 @media only screen and (max-width: 600px) {
-	img.instrument {
-		width: 100%;
-		height: auto;
+
+	img.instrument-icon {
+		width: 50%;
+		display: block;
+		margin: 0px auto 0px auto;
 	}
 
 	img.signal_chain {
