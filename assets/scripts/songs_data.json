@@ -19,9 +19,22 @@
 		]
 	},
 	{
+		"name":"Madame Bathory Abaddon Cover",
+		"cover" : "./assets/images/album-4.jpg",
+		"order":2,
+		"songs" : [
+			{
+				"name":"Madame Bathory",
+				"mp3_url":"./assets/mp3/madame.mp3",
+				"tab_url":"./assets/tabs/madame.gp5",
+				"order":"1"
+			}
+		]
+	},
+	{
 		"name":"Vete a la versh",
 		"cover" : "./assets/images/album-2.jpg",
-		"order":2,
+		"order":3,
 		"songs": [
 			{
 				"name":"Garnachas",
@@ -46,7 +59,7 @@
 	{
 		"name":"Videogames",
 		"cover" : "./assets/images/album-3.jpg",
-		"order":3,
+		"order":4,
 		"songs": [			
 			{
 				"name":"Song of Healing",
